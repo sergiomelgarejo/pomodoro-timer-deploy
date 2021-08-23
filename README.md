@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Pomodoro Timer 🍅⏲️
+This is a timer app designed to increase productivity for work and study using the pomodoro technique management method.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
